@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Models
+*.keras
+*.h5
+*.weights.h5
+*.ckpt
+*.pb
+
+# Test images
+test_images/
+
+# Notebook cache
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
